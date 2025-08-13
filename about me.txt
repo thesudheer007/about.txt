@@ -1,0 +1,3 @@
+i am Sudheer Narala
+I am pursuing BCA final year
+Git hub allows you to ceate,store,change,merge,and collaborate on files or code
